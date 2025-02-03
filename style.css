@@ -1,0 +1,33 @@
+.welcome
+{
+    text-align: center;
+}
+.container
+{
+    margin:auto;
+    max-width:30vw;
+    align-items:center;
+}
+.container button{
+    padding:20px;
+    margin:8px 3px;
+    border-radius: 15%;
+    cursor:pointer;
+}
+.row
+{
+    margin:6px 0px;
+}
+.row input{
+    margin:0px 6px;
+    min-width:14vw;
+    max-width:16vw;
+    padding:5px;
+    border:2px solid;
+    font-size:1.3rem;
+}
+#clear
+{
+  padding:15px 80px;
+  border-radius: 0px;
+}
